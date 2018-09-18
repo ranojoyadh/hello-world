@@ -1,3 +1,3 @@
 # hello-world
 just an example
-Tring to understand how Git Hub works
+Trying to understand how Git Hub works
